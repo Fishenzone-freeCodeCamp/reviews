@@ -1,1 +1,1 @@
-# [Reviews](https://fishenzone.github.io/reviews/)
+# [Reviews](https://fishenzone-freecodecamp.github.io/reviews/)
